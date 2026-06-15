@@ -45,6 +45,6 @@ SQL · Python · Tableau · A/B testing · Headless commerce · RAG · AWS · Cl
 ### Reach me
 
 - 💼 [LinkedIn](https://linkedin.com/in/niratp)
-- 📍 Ahmedabad, India
+- 📍 Canada, India, US
 
 <sub>Senior PM / Lead PM / Director of Product — B2B SaaS, commerce enablement, marketplace & supply-chain tech.</sub>
