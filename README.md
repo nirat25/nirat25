@@ -12,7 +12,7 @@ Reframe the problem  →  Go deep across domains  →  Execute it myself
 
 ### 🚀 Currently live
 
-**[DentalTechHub Search](https://search.dentaltechhub.com)** — a RAG application that answers dental practitioners' common questions. Built and shipped end-to-end (Python, AWS App Runner).
+**[DentalTechHub Search](https://search.dentaltechhub.com)** — a RAG application that answers dental practitioners' common questions. Built and shipped end-to-end (Python, AWS Elastic Container Service).
 
 ---
 
